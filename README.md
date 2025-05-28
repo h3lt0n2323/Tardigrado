@@ -25,7 +25,7 @@ Embora todos os seres vivos tenham massa (e, portanto, peso), o tardígrado est�
 
 Desenvolvido por *Helton*, estudante de Engenharia Mecânica e entusiasta de ciência, tecnologia e programação.
 
-> Este projeto faz parte do meu portfólio pessoal no GitHub para compartilhar curiosidades, aprimorar habilidades em desenvolvimento web e fortalecer meu currículo.
+> Este projeto faz parte do meu portfólio pessoal no GitHub para compartilhar curiosidades, aprimorar habilidades em desenvolvimento web.
 
 ---
 
